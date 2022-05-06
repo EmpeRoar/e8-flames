@@ -1,0 +1,17 @@
+{
+  "name": "e8-flames",
+  "version": "1.0.2",
+  "description": "crush compatibility calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flames"
+  ],
+  "author": "emperoar",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
